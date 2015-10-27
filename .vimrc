@@ -11,5 +11,6 @@ set ignorecase
 set smartcase
 
 " tabs = 4 spaces
-set expandtab
 set tabstop=4
+set shiftwidth=4
+set expandtab
