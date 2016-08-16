@@ -11,8 +11,7 @@ set ignorecase
 set smartcase
 
 " tabs = 4 spaces
-set expandtab
-set tabstop=4
+set tabstop=4 shiftwidth=4 expandtab
 
 " Pathogen for handling plugins
 execute pathogen#infect()
