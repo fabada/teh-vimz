@@ -13,8 +13,8 @@ set nu
 set ignorecase
 set smartcase
 
-" tabs = 4 spaces
+" tabs = 2 spaces
 " expandtab = expands tabs to spaces
-" tabstop=4 sets tab to insert 4 characters
+" tabstop=2 sets tab to insert 2 characters
 " shiftwidth controls the number of spaces inserted for indentation
-set tabstop=4 shiftwidth=4 expandtab
+set tabstop=2 shiftwidth=2 expandtab
